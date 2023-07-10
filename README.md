@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OGWannes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java,HTML,CSS,PHP,Python,Angular,Symfony
-- 📫 How to reach me contact via email 74k3nxc@gmail.com / Facebook > Wannes Chayeb / Instagram Wannes Chayeb 
+- 👀 I’m interested in (ask me to know) 
+- 🌱 I’m currently learning MERN Full stack
+- 📫 How to reach me contact via email waneeschayeb@gmail.com / Facebook > Wannes Chayeb / Instagram Wannes Chayeb 
 
 <!---
 OGWannes/OGWannes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
